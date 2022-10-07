@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HackerFinn
+- 👋 Hi, I’m @Gaming King
 - 👀 I’m interested in ... hacking
 - 🌱 I’m currently learning ... codeing
-- 💞️ I’m looking to collaborate on ...blooket hacks
-- 📫 How to reach me ... finnmcdevitt4@gmail.com
+- 💞️ I’m looking to collaborate on ...Hacking
+- 📫 How to reach me ... playzfinn65@gmail.com
 
 <!---
 HackerFinn/HackerFinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
